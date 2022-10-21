@@ -14,7 +14,7 @@ Rostyslav L. 20.10.2022 C3b.
 
 I've created a **PlayZone** web page using the *BootStrap* framework.
 
-- Users can use it both for buying keys, DLCs, and for game reviews and feedback.
+- On PlayZone, users can use it both for buying keys, DLCs, and for game reviews and feedback.
 	- Anyone can easily write a blog or simply leave a comment under a blog already created.
 
 > The project is still under development, so it has little functionality.
@@ -23,7 +23,7 @@ I've created a **PlayZone** web page using the *BootStrap* framework.
 
 ### BootStarp
 
-- Include Bootstrap’s CSS. Learn more about our [CDN links](https://getbootstrap.com/docs/5.2/getting-started/introduction/#cdn-links).
+- Include Bootstrap’s CSS. Learn more about [CDN links](https://getbootstrap.com/docs/5.2/getting-started/introduction/#cdn-links).
  
 ```html
 <p>
@@ -33,6 +33,6 @@ I've created a **PlayZone** web page using the *BootStrap* framework.
 
 ## Publication
 
-If you want to look at the website, just click [here]().
+If you want to look at the website, just click [here](https://rostajecna.github.io/WAProject20.10/).
 
 ![WAProject15.09Image](https://repository-images.githubusercontent.com/555376210/958a12c9-df61-4809-8cd5-b3123cacac60)
