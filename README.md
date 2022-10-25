@@ -1,4 +1,4 @@
-# 20.10. - Exercise BootStrap
+# 20.10. - Exercise Bootstrap
 
 Work on the project in the subject **WA**.
 
@@ -12,7 +12,7 @@ Rostyslav L. 20.10.2022 C3b.
 
 ## General info
 
-I've created a **PlayZone** web page using the *BootStrap* framework.
+I've created a **PlayZone** web page using the *Bootstrap* framework.
 
 - On PlayZone, users can use it both for buying keys, DLCs, and for game reviews and feedback.
 	- Anyone can easily write a blog or simply leave a comment under a blog already created.
@@ -21,7 +21,7 @@ I've created a **PlayZone** web page using the *BootStrap* framework.
 
 ---
 
-### BootStarp
+### Bootstrap
 
 - Include Bootstrap’s CSS. Learn more about [CDN links](https://getbootstrap.com/docs/5.2/getting-started/introduction/#cdn-links).
  
